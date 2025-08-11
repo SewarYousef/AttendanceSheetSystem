@@ -7,7 +7,7 @@ A microcontroller-based RFID attendance tracking system that records check-ins a
 - **Personalized greetings** on the LCD:
   - First scan: "Welcome to class!"
   - Second scan: "Goodbye!"
-- **Excel integration** via serial communication using PLX-DAQ or similar tools.
+- **Excel integration** via serial communication using PLX-DAQ (Parallax Data Acquisition Tool) or similar tools.
 - **Audio feedback** using a buzzer.
 - **Time and date logging** in an Excel sheet with a "Greeting" column and a "Student State" column to describe the first scan as "IN CLASS" and the second scan as "OUT OF CLASS".
 
