@@ -20,3 +20,6 @@ A microcontroller-based RFID attendance tracking system that records check-ins a
 - Jumper wires
 - Breadboard
 - Resistors (220Ω & 1KΩ for LCD)
+
+
+![Wiring Diagram](assets/Diagram .png)
