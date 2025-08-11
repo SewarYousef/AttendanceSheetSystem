@@ -22,4 +22,5 @@ A microcontroller-based RFID attendance tracking system that records check-ins a
 - Resistors (220Ω & 1KΩ for LCD)
 
 
-!(Diagram .png)
+## Schematic Design
+<img src=https://github.com/SewarYousef/AttendanceSheetSystem/blob/5dad356ac9f7859a466c948d95ae177a4531dd7f/Diagram%20.png align="center" height="500" width="650"/>
