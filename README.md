@@ -24,3 +24,6 @@ A microcontroller-based RFID attendance tracking system that records check-ins a
 
 ## Schematic Design
 <img src=https://github.com/SewarYousef/AttendanceSheetSystem/blob/5dad356ac9f7859a466c948d95ae177a4531dd7f/Diagram%20.png align="center" height="500" width="650"/>
+
+## Example Sheet 
+<img src=https://github.com/SewarYousef/AttendanceSheetSystem/blob/b99bf5b0b3375fe8142f9a893bbe63e0fe258ec6/Example%20Sheet.png align="center" height="500" width="650"/>
